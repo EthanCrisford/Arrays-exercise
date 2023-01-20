@@ -1,0 +1,15 @@
+D:\College\Arrays exercise\bin\Debug\net6.0\Arrays exercise.exe
+D:\College\Arrays exercise\bin\Debug\net6.0\Arrays exercise.deps.json
+D:\College\Arrays exercise\bin\Debug\net6.0\Arrays exercise.runtimeconfig.json
+D:\College\Arrays exercise\bin\Debug\net6.0\Arrays exercise.dll
+D:\College\Arrays exercise\bin\Debug\net6.0\Arrays exercise.pdb
+D:\College\Arrays exercise\obj\Debug\net6.0\Arrays exercise.csproj.AssemblyReference.cache
+D:\College\Arrays exercise\obj\Debug\net6.0\Arrays exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Arrays exercise\obj\Debug\net6.0\Arrays exercise.AssemblyInfoInputs.cache
+D:\College\Arrays exercise\obj\Debug\net6.0\Arrays exercise.AssemblyInfo.cs
+D:\College\Arrays exercise\obj\Debug\net6.0\Arrays exercise.csproj.CoreCompileInputs.cache
+D:\College\Arrays exercise\obj\Debug\net6.0\Arrays exercise.dll
+D:\College\Arrays exercise\obj\Debug\net6.0\refint\Arrays exercise.dll
+D:\College\Arrays exercise\obj\Debug\net6.0\Arrays exercise.pdb
+D:\College\Arrays exercise\obj\Debug\net6.0\Arrays exercise.genruntimeconfig.cache
+D:\College\Arrays exercise\obj\Debug\net6.0\ref\Arrays exercise.dll
